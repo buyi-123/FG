@@ -31,8 +31,10 @@
 明珠台1080p,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 明珠台1080p,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVB1 1080p,http://iptv.4666888.xyz/iptv2A.php?id=25
+TVB1 1080p,https://cdn6.101.qzz.io/163189/yzwx
 TVB1 1080p,https://6.cdn.loc.cc/163189.php?id=tvb1
 TVBJ1 1080p,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVBJ1 1080p,https://6.cdn.loc.cc/163189.php?id=j1
 TVBJ1 1080p,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVBJ1 1080p,https://6.cdn.loc.cc/163189.php?id=j1
 TVB plus 1080p,http://74.91.26.218:82/live/j2.m3u8
@@ -45,12 +47,12 @@ TVB星河720p,https://cdn6.101.qzz.io/163189/tvbxh
 TVB星河720p,http://rihou.cc:555/tv/[Pd]无线星河
 TVB星河720p,http://rihou.cc:555/tv/[PL]无线星河
 TVB星河720p,http://r.jdshipin.com/Voac4
-TVB千禧经典,http://bxtv.3a.ink/api.php?id=qxjd
-TVB千禧经典,http://rihou.cc:555/tv/[Bx]无线千禧
-TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
-TVB功夫,http://rihou.cc:555/tv/[Pd]无线功夫
-TVB功夫,http://hls-pull-wicketpw.speedws.com/live/chNDM1yTG8UNfbemYe3QFaC10n2vqBePUyvCKs7NLnIKhl7lKu.flv
-TVB功夫,P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
+TVB无线千禧1080p,http://bxtv.3a.ink/api.php?id=qxjd
+TVB无线千禧1080p,http://rihou.cc:555/tv/[Bx]无线千禧
+TVB千禧经典1080p,https://o11.163189.xyz/stream/live/tvbc/
+TVB功夫720p,http://rihou.cc:555/tv/[Pd]无线功夫
+TVB功夫720p,https://cdn6.101.qzz.io/163189/yzwx
+TVB功夫720p,P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
 TVB娱乐新闻台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 TVB娱乐新闻台,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
 TVB娱乐新闻台,http://rihou.cc:555/tv/[PL]无线娱乐
