@@ -10,8 +10,18 @@
     "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro",
 	}
   ],
- "sites": [    
-        {
+ "sites": [ 
+     {
+            "key": "豆瓣",
+            "name": "😎免费┃接口",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "indexs": 1,
+            "ext": "./lib/douban.json"
+    },
+    {
             "key": "push_agent",
             "name": "⛽手机┃推送",
             "type": 3,
