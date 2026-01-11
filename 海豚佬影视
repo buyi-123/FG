@@ -1813,7 +1813,7 @@
       "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "内置直播-备用",
+      "name": "iptvpro",
       "type": 0,
       "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
