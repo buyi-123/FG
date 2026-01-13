@@ -257,6 +257,12 @@
               "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/爱上你听书网[听].js"
         },
         {
+			"key": "py_动漫巴士",
+			"name": "🐬动漫巴士",
+			"type": 4,
+			"api": "https://py.doube.eu.org/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89"
+		},
+        {
 			"key": "market",
 			"name": "🐬OK影视应用更新",
 			"type": 3,
