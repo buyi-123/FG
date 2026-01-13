@@ -6,7 +6,7 @@
     "sites": [
         {
         "key":"爱奇艺弹幕",
-        "name":"爱爱",
+        "name":"🐬爱奇艺视频｜追剧",
         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
         "type":3,
         "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
@@ -38,7 +38,7 @@
          },
          {
          "key":"芒果弹幕",
-         "name":"芒芒",
+         "name":"🐬芒果视频｜追剧",
          "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
           "type":3,
           "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
