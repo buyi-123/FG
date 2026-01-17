@@ -260,7 +260,7 @@
 			"changeable": 0,
 			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/market.json",
 			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/fm.jar"
-		},
+		}
         ],
     "parses": [
           {
