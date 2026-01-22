@@ -611,6 +611,12 @@
             "ua": "okhttp/5.3.2",
             "url": "http://1.94.31.214/live/live9/dgtv.txt"
         },
+         {
+            "name": "🦄ipv4电视",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u"
+        },
         {
             "name": "🦄jackTV(梯子)",
             "type": 0,
