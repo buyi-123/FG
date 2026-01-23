@@ -57,6 +57,30 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
+{
+            "name": "🍑糖心|秒播",
+            "key": "TnewGr",
+            "type": 3,
+            "api": "csp_TnewGrAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🥇金牌|秒播",
+            "key": "JinPai",
+            "type": 3,
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
         {
             "key": "还行",
             "name": "🦄还行4K｜追剧",
@@ -630,7 +654,7 @@
             "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
         }, 
         {
-            "name": "🦄AnboxTV",
+            "name": "🦄AnboxTV斯玛特",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://tv.anboxtv.online/tv"
@@ -659,12 +683,6 @@
             "ua": "okhttp/5.3.2",
             "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/台湾TV"
         }, 
-       {
-            "name": "🦄斯玛特",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u"
-        },
         {
             "name": "🦄港台大陆频道",
             "type": 0,
